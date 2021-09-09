@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(73, 63, 61);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
+    cursor: pointer;
+    font-size: 15px;
+    text-align:center;
+    margin:auto;
+    display: block;
+    padding: 15px 30px;
+    background-color: transparent;
+    border-color: tomato;
+}
+button:hover{
+background-color: red;
+color: salmon;
+}
+#quiz-content{
+    display:none;
+    text-align:center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+
+
+
+
